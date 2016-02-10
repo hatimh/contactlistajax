@@ -1,0 +1,16 @@
+.container {
+  text-align: center;
+}
+
+.secondary {
+  display: none;
+}
+
+.btn {
+  width: 200px;
+  margin: 5px;
+}
+
+body {
+  background-color: rgb(120, 184, 255);
+}
